@@ -1,4 +1,4 @@
-# PES1UG23CS320 - OOAD_Student_Management_System
+# OOAD Student Management System - PES1UG23CS320
 
 Spring Boot (MVC + Thymeleaf) Student Management System using Spring Data JPA with an in-memory H2 database.
 
